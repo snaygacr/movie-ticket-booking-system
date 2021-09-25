@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1589131685 source:c:\users\anusha meher\desktop\mtbs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototype.h"
+
+1589121868 c:\users\anusha meher\desktop\mtbs\prototype.h
+	<stdio.h>
+
+1589126883 source:c:\users\anusha meher\desktop\mtbs\modules.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"prototype.h"
+
+1625243774 source:d:\extra\movie ticket booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototype.h"
+
+1625243774 d:\extra\movie ticket booking system\prototype.h
+	<stdio.h>
+
+1625243774 source:d:\extra\movie ticket booking system\modules.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"prototype.h"
+
